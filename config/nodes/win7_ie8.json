@@ -1,0 +1,18 @@
+{
+   "platform": "WINDOWS",
+   "browserName": "internet explorer",
+   "version": "8",
+   "maxInstances": 3
+},
+{
+   "platform": "WINDOWS",
+   "browserName": "firefox",
+   "version": "21",
+   "maxInstances": 3
+},
+{
+   "platform": "WINDOWS",
+   "browserName": "google chrome",
+   "version": "27",
+   "maxInstances": 3
+}
